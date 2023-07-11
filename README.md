@@ -1,9 +1,9 @@
 ## ChatterBox
 <!-- Project Description-->
-
+Chatter Box is an engaging project that allows you to explore the world of WebSockets while building a dynamic chatroom application. By leveraging the ws package for WebSocket server development and the browser-native WebSocket API for WebSocket client development, you will unlock the power of real-time communication.
 
 <!-- Image GIF of Project -->
-
+![Chatter Box](images/chatter_box.gif)
 
 ### Requirements
 Need to have Node.js on terminal to run the projects. 
